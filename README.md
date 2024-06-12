@@ -110,3 +110,9 @@ Here we update the task state variable whenever the text in the input field chan
 1. The major plus which falls into the favour of using create-react-native-app cli is that it takes away the need to setup separate build chains for iOS and Android on your system. Expo provides an inbuilt build chain which works well for building and testing on both iOS and Android devices.
 2. Expo provides a suite of tools and services that can significantly speed up development.
 3. Expo simplifies the setup process with tools and configurations already in place. React Native CLI, on the other hand, is more flexible but requires more manual setup and configuration.
+
+## Visualisation:
+
+![Capture d'écran 2024-06-12 004216](https://github.com/HafsaTATA/To_do_list-mobile-app-/assets/120058921/6837440a-fbad-4b3f-b8d6-81d655c02356)
+![Capture d'écran 2024-06-12 004140](https://github.com/HafsaTATA/To_do_list-mobile-app-/assets/120058921/733f514f-2242-4f43-b486-c37001057880)
+![Capture d'écran 2024-06-12 172217](https://github.com/HafsaTATA/To_do_list-mobile-app-/assets/120058921/a3ad0d25-0629-42b9-89b1-63e870569ffe)
